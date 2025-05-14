@@ -23,3 +23,6 @@ Outputs:
 ## 📊 Dataset
 
 https://www.kaggle.com/datasets/jacksondivakarr/car-crash-dataset
+
+## 🌳📈 Model decision flow
+![Model decision flow](images/crashes-predicts-tree.png)
